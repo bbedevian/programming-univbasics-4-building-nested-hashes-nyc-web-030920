@@ -1,5 +1,6 @@
 def base_hash
-	{}
+	monopoly = {:key => "blank"}
+	monopoly[:key]
 end
 
 def monopoly_with_second_tier
