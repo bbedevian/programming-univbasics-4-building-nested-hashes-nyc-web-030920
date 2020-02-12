@@ -1,5 +1,5 @@
 def base_hash
-	monopoly = {}
+	monopoly = {:name => "alec"}
 
 end
 
